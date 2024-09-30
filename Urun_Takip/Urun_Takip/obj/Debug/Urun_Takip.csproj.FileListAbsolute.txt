@@ -1,0 +1,10 @@
+C:\Users\Busra\source\repos\Urun_Takip\Urun_Takip\bin\Debug\Urun_Takip.exe.config
+C:\Users\Busra\source\repos\Urun_Takip\Urun_Takip\bin\Debug\Urun_Takip.exe
+C:\Users\Busra\source\repos\Urun_Takip\Urun_Takip\bin\Debug\Urun_Takip.pdb
+C:\Users\Busra\source\repos\Urun_Takip\Urun_Takip\obj\Debug\Urun_Takip.csproj.AssemblyReference.cache
+C:\Users\Busra\source\repos\Urun_Takip\Urun_Takip\obj\Debug\Urun_Takip.Form1.resources
+C:\Users\Busra\source\repos\Urun_Takip\Urun_Takip\obj\Debug\Urun_Takip.Properties.Resources.resources
+C:\Users\Busra\source\repos\Urun_Takip\Urun_Takip\obj\Debug\Urun_Takip.csproj.GenerateResource.cache
+C:\Users\Busra\source\repos\Urun_Takip\Urun_Takip\obj\Debug\Urun_Takip.csproj.CoreCompileInputs.cache
+C:\Users\Busra\source\repos\Urun_Takip\Urun_Takip\obj\Debug\Urun_Takip.exe
+C:\Users\Busra\source\repos\Urun_Takip\Urun_Takip\obj\Debug\Urun_Takip.pdb
